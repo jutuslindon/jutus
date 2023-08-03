@@ -23,3 +23,8 @@ h2{
   border-radius: 20px;
   width: 50px;
 }
+.js-like-button{
+  width: 50px;
+  background-color: blue;
+  color: red;
+}
