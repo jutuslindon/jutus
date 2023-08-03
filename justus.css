@@ -1,0 +1,25 @@
+h2{
+  color: black;
+  font-family: rod;
+  font-weight: bolder;
+  cursor: pointer;
+}
+.image-div{
+  display: flex;
+ justify-content: space-between;
+ flex-direction: column;
+}
+.s2{
+  color: blue;
+  font-family: sans-serif;
+}
+.s3{
+  color: green;
+  text-decoration: underline;
+}
+.liked{
+  color: blue;
+  background: white;
+  border-radius: 20px;
+  width: 50px;
+}
