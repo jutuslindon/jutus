@@ -1,3 +1,13 @@
+.video-container{
+  display: flex;
+  flex-directions: row;
+  width: 600px;
+  justify-content: "Space-between";
+}
+.video-container:hover{
+  border: dashed;
+  border-width: 4px;
+}
 h2{
   color: black;
   font-family: rod;
