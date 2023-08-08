@@ -1,8 +1,12 @@
+video{
+  height: 250px;
+}
+
 .video-container{
   display: flex;
   flex-directions: row;
   width: 600px;
-  justify-content: "Space-between";
+  justify-content: Space-between;
 }
 .video-container:hover{
   border: dashed;
